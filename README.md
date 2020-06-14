@@ -44,4 +44,4 @@ Yroethiel then added a calibration mode to handle noise, dead zones, and sensiti
 In his V2 post, Yroethiel mentioned using a Raspberry Pi as a web server, hosting a custom GUI on Chromium in Kiosk mode. The RBP sends the signals to the Arduino via Serial connection.
 
 ### Alternate Tablet Board
-GameGlass is a very popular tablet-based GUI for games. It can be loaded onto Apple, Android, or Amazon Fire tablets (Fire 7 or 10)... and may be a less expensive, more attractive option for a command board.
+[GameGlass](https://gameglass.gg) is a very popular tablet-based GUI for games. It can be loaded onto Apple, Android, or Amazon Fire tablets (Fire 7 or 10)... and may be a less expensive, more attractive option for a command board.
